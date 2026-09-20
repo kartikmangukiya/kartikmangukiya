@@ -2,19 +2,19 @@
 
 # 👋 Hey, I'm Kartik
 
-### JavaScript Developer | Frontend • Backend • Full-Stack
+### JavaScript Engineer | Frontend • Backend • Full-Stack
 
 Building modern, scalable and high-performance applications
 with the JavaScript ecosystem.
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/kartikmangukiya">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:kartikmangukiya.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -25,19 +25,11 @@ with the JavaScript ecosystem.
 
 ## 👨‍💻 About Me
 
-I'm a **JavaScript Developer** who enjoys building applications
-across the modern JavaScript ecosystem.
+I'm Kartik Mangukiya from Earth 🌍
 
-- 💛 JavaScript is my core technology
-- ⚛️ React & Next.js for modern frontend applications
-- 🅰️ Angular for scalable enterprise applications
-- 🟢 Node.js & Express for backend development
-- 🗃️ MongoDB for database-driven applications
-- 🔄 Redux, RxJS & TanStack Query for state and data management
-- 🔌 REST API development and integration
-- 🛠️ Git, GitHub, npm & Postman for development workflows
-- 🚀 Interested in building clean, scalable and maintainable applications
-
+- 💛 I'm work with JavaScript/TypeScript
+- 🚀 Interested in building clean, scalable, maintainable and enterprise applications
+- 🤖 Building with AI and exploring AI-powered applications
 ---
 
 ## 🧰 JavaScript Ecosystem
@@ -57,25 +49,21 @@ across the modern JavaScript ecosystem.
 ### State & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://skillicons.dev/icons?i=redux,rxjs" />
 </p>
 
-**Also:** RxJS • TanStack Query
+**Also:** TanStack Query
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### Tools & Workflow
@@ -108,5 +96,6 @@ across the modern JavaScript ecosystem.
         Redux      RxJS    TanStack Query
                      
                      │
-                     ▼
-                  MongoDB
+                ┌────┴─────┐
+                │          │
+              MongoDB    MySql
