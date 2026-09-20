@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Kartik
+# 👋 hey there
 
 ### JavaScript Engineer | Frontend • Backend • Full-Stack
 
@@ -71,31 +71,3 @@ I'm Kartik Mangukiya from Earth 🌍
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman" />
 </p>
-
----
-
-## 🚀 What I Work With
-
-```text
-                    JavaScript Ecosystem
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-          Frontend                    Backend
-             │                           │
-      ┌──────┼──────┐              ┌─────┴─────┐
-      │      │      │              │           │
-    React  Next.js Angular       Node.js     Express
-      │
-      └──────────────┐
-                     │
-               State / Data
-                     │
-          ┌──────────┼──────────┐
-          │          │          │
-        Redux      RxJS    TanStack Query
-                     
-                     │
-                ┌────┴─────┐
-                │          │
-              MongoDB    MySql
